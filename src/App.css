@@ -2,6 +2,21 @@
   text-align: center;
 }
 
+#list {
+  text-align: left;
+}
+
+.material {
+  
+  color: red;
+  opacity: 0.1;
+  
+}
+
+.material:hover{
+  opacity: 1;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
